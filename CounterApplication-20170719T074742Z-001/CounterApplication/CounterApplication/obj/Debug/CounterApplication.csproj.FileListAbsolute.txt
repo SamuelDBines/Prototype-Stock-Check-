@@ -1,0 +1,18 @@
+c:\users\sam\documents\visual studio 2015\Projects\CounterApplication\CounterApplication\bin\Debug\CounterApplication.exe.config
+c:\users\sam\documents\visual studio 2015\Projects\CounterApplication\CounterApplication\obj\Debug\CounterApplication.csprojResolveAssemblyReference.cache
+c:\users\sam\documents\visual studio 2015\Projects\CounterApplication\CounterApplication\obj\Debug\CounterApplication.Form1.resources
+c:\users\sam\documents\visual studio 2015\Projects\CounterApplication\CounterApplication\obj\Debug\CounterApplication.Properties.Resources.resources
+c:\users\sam\documents\visual studio 2015\Projects\CounterApplication\CounterApplication\obj\Debug\CounterApplication.csproj.GenerateResource.Cache
+c:\users\sam\documents\visual studio 2015\Projects\CounterApplication\CounterApplication\bin\Debug\CounterApplication.exe
+c:\users\sam\documents\visual studio 2015\Projects\CounterApplication\CounterApplication\bin\Debug\CounterApplication.pdb
+c:\users\sam\documents\visual studio 2015\Projects\CounterApplication\CounterApplication\obj\Debug\CounterApplication.exe
+c:\users\sam\documents\visual studio 2015\Projects\CounterApplication\CounterApplication\obj\Debug\CounterApplication.pdb
+G:\CounterApplication\CounterApplication\bin\Debug\CounterApplication.exe.config
+G:\CounterApplication\CounterApplication\obj\Debug\CounterApplication.exe
+G:\CounterApplication\CounterApplication\obj\Debug\CounterApplication.pdb
+G:\CounterApplication\CounterApplication\bin\Debug\CounterApplication.exe
+G:\CounterApplication\CounterApplication\bin\Debug\CounterApplication.pdb
+G:\CounterApplication\CounterApplication\obj\Debug\CounterApplication.csprojResolveAssemblyReference.cache
+G:\CounterApplication\CounterApplication\obj\Debug\CounterApplication.Form1.resources
+G:\CounterApplication\CounterApplication\obj\Debug\CounterApplication.Properties.Resources.resources
+G:\CounterApplication\CounterApplication\obj\Debug\CounterApplication.csproj.GenerateResource.Cache
